@@ -1,0 +1,12 @@
+.vercel
+env/
+.env
+__pycache__/
+
+*.pyc
+*.pyo
+
+model.pkl
+vectorizer.pkl
+model_preprocessing.py
+
